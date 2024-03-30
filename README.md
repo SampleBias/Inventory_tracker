@@ -31,7 +31,7 @@ Contributions to the Inventory Tracker are welcome! Please follow these steps to
 4. Push your branch and submit a pull request.
 
 ## License
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is open source and available under the GNU Public License (LICENSE.md).
 
 ## Contact
 For questions or feedback, please open an issue in the GitHub repository.
